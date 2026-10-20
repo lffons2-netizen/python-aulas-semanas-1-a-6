@@ -1,7 +1,0 @@
-# Semana 1 | Slide 17 | Bloco 3
-x = 10
-print(x)     # 10
-x = 20
-print(x)     # 20
-x = "agora sou texto"
-print(x)     # agora sou texto

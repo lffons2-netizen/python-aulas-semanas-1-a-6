@@ -1,9 +1,0 @@
-# CERTO: use None como padrao
-def add(item, lista=None):
-    if lista is None:
-        lista = []      # nova a cada
-    lista.append(item)
-    return lista
-
-print(add("a"))   # ['a']
-print(add("b"))   # ['b'] correto

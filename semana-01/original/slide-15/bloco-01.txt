@@ -1,6 +1,0 @@
-idade = 25        # válido
-_idade = 25       # válido
-idade2 = 25       # válido
-2idade = 25       # inválido
-minha-idade = 25  # inválido
-class = 25        # inválido

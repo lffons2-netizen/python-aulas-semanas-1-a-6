@@ -1,5 +1,0 @@
-re.match(padrao, texto)
-re.search(padrao, texto)
-re.findall(padrao, texto)
-re.sub(padrao, novo, texto)
-re.split(padrao, texto)

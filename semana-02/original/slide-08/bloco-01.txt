@@ -1,8 +1,0 @@
-#simples
-if condicao:    # código se for verdade
-
-#composta
-if condicao:
-    # código se for verdade
-else:
-    # código se for falso

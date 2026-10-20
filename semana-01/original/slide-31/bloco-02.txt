@@ -1,6 +1,0 @@
-t = "  Top  "
-t.strip()
-t.upper()
-t.lower()
-t.replace(
-  "a","b")

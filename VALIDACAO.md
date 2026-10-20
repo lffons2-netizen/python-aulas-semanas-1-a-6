@@ -1,21 +1,19 @@
-# Validação
+# Validação da reorganização
 
-- **239 blocos originais**: comparação literal com a transcrição de origem, por semana/slide/bloco. Sem alterações na versão original.
-- **235 arquivos Python organizados**: todos passam na análise de sintaxe.
-- **228 execuções concluídas** em cópias temporárias, com entradas de teste para os programas interativos e dados sintéticos somente durante os testes de arquivos.
-- **7 erros didáticos esperados**, conferidos pelo tipo da exceção: string imutável; conversão inválida; procedimento sem retorno; nome de módulo incorreto; dicionário sem método; preço negativo; instanciação de classe abstrata.
-- Resultados conferidos em situação acadêmica, módulos de estoque, filtro de pares, divisão, conta bancária, formas e preços com polimorfismo.
-- Duas entradas adicionais verificam ValueError e divisão por zero, incluindo a execução de finally.
-- Todos os caminhos do catálogo apontam para arquivos existentes.
+- 84 atividades com arquivo de entrada e README conferidos.
+- 112 arquivos Python verificados quanto à sintaxe, incluindo os testes.
+- 11 testes de integração/regressão na raiz, com subtestes para executar todas as 84 atividades em cópias temporárias.
+- 5 testes adicionais do projeto bancário, chamados pela suíte principal.
+- Conferidos os resultados de cálculos, classificadores e seus limites, bloqueio após três erros, divisão por zero, coleções vazias, preservação da lista original, mediana/modas, relatórios JSON, CSV sem colunas obrigatórias, datas inexistentes e arquivos ausentes.
+- Os dois exemplos com opções independentes tiveram ambas as opções executadas.
+- Todos os links locais dos READMEs e enunciados foram conferidos.
 
-## Repetir
-
-Na raiz do repositório:
+## Executar novamente
 
 ```bash
-python verificar.py
+python -m unittest discover -s testes -v
 ```
 
-O verificador roda os exemplos em diretórios temporários, sem sobrescrever os arquivos de estudo. Usa apenas a biblioteca padrão e grava o relatório em `validacao_execucao.json`. Os dados sintéticos de leitura existem somente nas cópias temporárias; não são novos exemplos atribuídos aos slides.
+Resultado desta atualização: **OK**. Os testes usam a biblioteca padrão, entradas predefinidas e cópias temporárias, sem sobrescrever os dados das atividades.
 
-A verificação não garante todas as entradas possíveis. Os fragmentos em Markdown e os códigos originais deliberadamente inválidos não são anunciados como programas executáveis.
+Os testes cobrem os cenários descritos; não garantem todas as entradas possíveis. A classificação de clientes e as taxas do banco seguem as regras didáticas documentadas nos respectivos READMEs.

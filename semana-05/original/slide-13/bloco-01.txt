@@ -1,5 +1,0 @@
-f = open("dados.txt", "r")
-try:
-    conteudo = f.read()
-finally:
-    f.close()

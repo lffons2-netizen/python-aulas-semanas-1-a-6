@@ -1,7 +1,0 @@
-frutas.add("pera")
-frutas.remove("uva")
-frutas.discard("kiwi")
-A.union(B)
-A.intersection(B)
-A.difference(B)
-len(frutas)

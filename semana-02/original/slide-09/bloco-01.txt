@@ -1,7 +1,0 @@
-#encadeado
-if condicao1:
-    # código se condicao1 for verdade
-elif condicao2:
-    # código se condicao2 for verdade
-else:
-    # código se nenhuma for verdade

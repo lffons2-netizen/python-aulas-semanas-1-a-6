@@ -1,4 +1,0 @@
-p = "Python"
-p[0] = "J"
-# TypeError!
-nova = "J"+p[1:]

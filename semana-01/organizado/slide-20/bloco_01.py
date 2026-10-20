@@ -1,6 +1,0 @@
-# Semana 1 | Slide 20 | Bloco 1
-inteiro = 42
-decimal = 3.14
-grande = 1_000_000
-negativo = -17
-cientifica = 2.5e3  # 2500.0

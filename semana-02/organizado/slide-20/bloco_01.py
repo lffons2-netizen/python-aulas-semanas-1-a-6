@@ -1,9 +1,0 @@
-# Semana 2 | Slide 20 | Bloco 1
-print("=== MENU DE INSCRIÇÃO DA MARATONA ===")
-print("1 - Maratona Completa")
-print("2 - Meia Maratona")
-print("3 - Corrida de Estreia")
-
-opcao = int(input("Escolha o número da sua categoria: "))
-
-print("\n--- Resultado ---")

@@ -1,47 +1,59 @@
-# Python — aulas das semanas 1 a 6
+# Python — exemplos e atividades resolvidas
 
-Códigos das aulas de Python, separados por **semana, slide e bloco**. Inclui os trechos que aparecem em imagens. Portugol foi excluído.
+Aulas das semanas **1 a 6**, organizadas pelo tipo de atividade. Foram retirados os fragmentos conceituais, tabelas de métodos, códigos de imagens/diagramas e exemplos usados somente para demonstrar erros.
 
-## Escolha uma semana
+| Semana | Conteúdo | Abrir |
+|---|---|---|
+| 1 | Introdução e cálculos | [Semana 1](semana-01/README.md) |
+| 2 | Condicionais e laços | [Semana 2](semana-02/README.md) |
+| 3 | Funções e módulos | [Semana 3](semana-03/README.md) |
+| 4 | Listas, tuplas e conjuntos | [Semana 4](semana-04/README.md) |
+| 5 | Arquivos, regex e exceções | [Semana 5](semana-05/README.md) |
+| 6 | Orientação a objetos | [Semana 6](semana-06/README.md) |
 
-| Semana | Conteúdo |
-|---|---|
-| [1](semana-01/) | Introdução, variáveis, operadores, strings e entrada/saída |
-| [2](semana-02/) | Condicionais, match/case, for e while |
-| [3](semana-03/) | Funções, parâmetros, mutabilidade e módulos |
-| [4](semana-04/) | Listas, tuplas, conjuntos e manipulação de coleções |
-| [5](semana-05/) | Arquivos, expressões regulares e exceções |
-| [6](semana-06/) | Programação orientada a objetos |
+## Organização de cada semana
 
-## Duas versões
+- `exemplos/`: programas completos apresentados nos slides e exercícios guiados; cada pasta tem `original.md` e a versão organizada em arquivos Python.
+- `pratica_independente/`: atividades do professor, agora resolvidas.
+- `desafios/`: desafios durante a aula, bônus e referências aos sprints.
+- `entregaveis/`: projetos finais ou checklist com links para os arquivos que devem ser entregues.
+- `ENUNCIADOS.md`: texto dos slides usados para conferir os requisitos.
 
-- **`original/`**: transcrição dos códigos dos slides, inclusive erros didáticos e quebras visuais do PDF. `transcricao.md` mostra todos os códigos da semana; cada slide também possui seus blocos em `.txt`.
-- **`organizado/`**: exemplos separados em arquivos `.py`, com módulos relacionados na mesma pasta. Quebras que impediam a execução foram corrigidas e continuações reunidas. Fragmentos de sintaxe incompleta ficam em `.md`.
+Cada atividade tem seu próprio README, os números dos slides e o comando de execução. Quando um desafio e um entregável pedem o mesmo sistema, ambos apontam para a mesma solução.
 
-Os arquivos não formam um único programa. Execute um exemplo por vez. Exemplos classificados como **erro didático** podem lançar exceções de propósito; **trechos que requerem contexto** dependem das variáveis da explicação. Veja o índice de cada semana e o [registro de alterações](ALTERACOES.md).
+## Como executar no VS Code
 
-## Como abrir no VS Code
-
-1. Clique em **Code → Download ZIP** e extraia, ou clone este repositório.
-2. Abra a pasta extraída no VS Code.
-3. Instale Python 3.10 ou superior e a extensão Python do VS Code.
-4. Abra um terminal na pasta do exemplo e execute seu arquivo.
-
-Exemplo já existente nos slides:
+Use Python 3.10 ou superior. Abra o terminal **na pasta da atividade** e execute:
 
 ```bash
-cd semana-04/organizado/slide-33
 python principal.py
 ```
 
-No Windows, `py` pode substituir `python`; em alguns sistemas, use `python3`.
+Exemplo:
 
-## Arquivos de entrada
+```bash
+cd semana-04/entregaveis/sistema_produtos
+python principal.py
+```
 
-A semana 5 usa arquivos como `dados.txt`, `dados.csv`, `dados.json`, `acesso.log` e `produtos.csv`. A semana 6 usa `clientes.txt`. O conteúdo desses arquivos não foi inventado para o repositório. Crie-os com os dados da sua atividade e execute o programa a partir da pasta em que eles estão. Os exemplos de tratamento de arquivo inexistente funcionam sem criá-los.
+Alguns exemplos têm mais de um programa independente: o `principal.py` permite escolher qual executar. Os arquivos de dados incluídos são fictícios e estão identificados nos READMEs. Os programas da semana 5 gravam relatórios na pasta da própria atividade.
 
-## Verificação
+## Decisões nos enunciados abertos
 
-Consulte [VALIDACAO.md](VALIDACAO.md) para os testes realmente executados e seus limites. A versão original não passa por correção ou compilação.
+- Semana 2: o slide 50 tem o título “6 mini-desafios”, mas enumera **quatro**. Foram resolvidos os quatro, além dos quatro desafios anteriores e do cadastro bônus.
+- A classificação de clientes não define limites. A regra adotada está documentada nas pastas dos classificadores; pode ser alterada para a regra do professor.
+- Semana 3: foram escolhidas três funções simples para utilidades.py, porque o enunciado deixa a escolha aberta. Moda retorna todas as modas em caso de empate.
+- Semana 4: o mesmo sistema resolve o bônus do slide 40 e o entregável do slide 42.
+- Semana 5: todos os cinco cenários do slide 29 estão resolvidos, com leitura/escrita, regex, exceção personalizada e relatório.
+- Semana 6: o slide 33 manda escolher um cenário. Foi escolhido **Banco**, também usado no projeto final; não foram criados cinco projetos quando apenas um foi pedido.
+- O escopo solicitado é Python. Os trechos em Portugol presentes nos enunciados não foram implementados.
 
-Material organizado para estudo a partir dos PDFs fornecidos. Não há licença de redistribuição atribuída ao material original.
+Os códigos em `original.md` são transcrições; os programas de práticas, desafios e entregáveis são **soluções novas elaboradas a partir dos enunciados**.
+
+## Conferir os testes
+
+```bash
+python -m unittest discover -s testes -v
+```
+
+Veja os resultados e os limites em [VALIDACAO.md](VALIDACAO.md).

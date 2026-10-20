@@ -1,5 +1,0 @@
-    case _:
-        # O sublinhado (_) substitui o "caso
-contrario" do Portugol
-        print("Erro: Categoria inexistente! Escolha
-de 1 a 3.")

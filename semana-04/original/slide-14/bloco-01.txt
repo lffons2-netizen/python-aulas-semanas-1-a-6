@@ -1,7 +1,0 @@
-ponto.count(10)
-ponto.index(20)
-len(ponto)
-max(ponto)
-sum(ponto)
-sorted(ponto)
-tuple([1, 2, 3])

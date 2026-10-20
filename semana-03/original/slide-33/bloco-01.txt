@@ -1,9 +1,0 @@
-def media(a, b, c):
-    return (a + b + c) / 3
-
-notas = [8, 6, 10]
-print(media(*notas))   # 8.0
-
-dados = {"a": 8, "b": 6,
-         "c": 10}
-print(media(**dados))  # 8.0

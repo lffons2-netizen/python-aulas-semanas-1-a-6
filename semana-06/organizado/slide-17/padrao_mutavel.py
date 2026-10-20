@@ -1,8 +1,0 @@
-# Semana 6 | Slide 17 | Bloco 2
-# ERRADO: a lista é compartilhada!
-def __init__(self, itens=[]):
-    self.itens = itens
-
-# CERTO: cada objeto ganha a sua lista
-def __init__(self, itens=None):
-    self.itens = itens if itens is not None else []

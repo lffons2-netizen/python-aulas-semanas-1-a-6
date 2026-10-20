@@ -1,0 +1,927 @@
+[
+  {
+    "semana": 1,
+    "categoria": "exemplos",
+    "atividade": "slide-12",
+    "slides": [
+      12
+    ],
+    "descricao": "Primeiro programa",
+    "pasta": "semana-01/exemplos/slide-12",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 1,
+    "categoria": "exemplos",
+    "atividade": "slide-38",
+    "slides": [
+      38
+    ],
+    "descricao": "Calculadora de IMC",
+    "pasta": "semana-01/exemplos/slide-38",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 1,
+    "categoria": "exemplos",
+    "atividade": "slide-39",
+    "slides": [
+      39
+    ],
+    "descricao": "Conversor de moedas",
+    "pasta": "semana-01/exemplos/slide-39",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 1,
+    "categoria": "exemplos",
+    "atividade": "slide-40",
+    "slides": [
+      40
+    ],
+    "descricao": "Conversor de temperatura",
+    "pasta": "semana-01/exemplos/slide-40",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 1,
+    "categoria": "exemplos",
+    "atividade": "slide-41",
+    "slides": [
+      41
+    ],
+    "descricao": "Área e perímetro",
+    "pasta": "semana-01/exemplos/slide-41",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 1,
+    "categoria": "exemplos",
+    "atividade": "slide-42",
+    "slides": [
+      42
+    ],
+    "descricao": "Nome completo",
+    "pasta": "semana-01/exemplos/slide-42",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 2,
+    "categoria": "exemplos",
+    "atividade": "slide-15",
+    "slides": [
+      15
+    ],
+    "descricao": "Média e classificação acadêmica",
+    "pasta": "semana-02/exemplos/slide-15",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 2,
+    "categoria": "exemplos",
+    "atividade": "slide-21",
+    "slides": [
+      21
+    ],
+    "descricao": "Menu de inscrição da maratona",
+    "pasta": "semana-02/exemplos/slide-21",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 2,
+    "categoria": "exemplos",
+    "atividade": "slide-36",
+    "slides": [
+      36
+    ],
+    "descricao": "Soma dos números pares",
+    "pasta": "semana-02/exemplos/slide-36",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 2,
+    "categoria": "exemplos",
+    "atividade": "slide-44",
+    "slides": [
+      44
+    ],
+    "descricao": "Validação de nota",
+    "pasta": "semana-02/exemplos/slide-44",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 2,
+    "categoria": "exemplos",
+    "atividade": "slide-46",
+    "slides": [
+      46
+    ],
+    "descricao": "Exercício Guiado 1: Situação acadêmica",
+    "pasta": "semana-02/exemplos/slide-46",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 2,
+    "categoria": "exemplos",
+    "atividade": "slide-47",
+    "slides": [
+      47
+    ],
+    "descricao": "Exercício Guiado 2: Operações",
+    "pasta": "semana-02/exemplos/slide-47",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 2,
+    "categoria": "exemplos",
+    "atividade": "slide-48",
+    "slides": [
+      48
+    ],
+    "descricao": "Exercício Guiado 3: Repetição com for",
+    "pasta": "semana-02/exemplos/slide-48",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 2,
+    "categoria": "exemplos",
+    "atividade": "slide-49",
+    "slides": [
+      49
+    ],
+    "descricao": "Exercício Guiado 4: Repetição com while",
+    "pasta": "semana-02/exemplos/slide-49",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 3,
+    "categoria": "exemplos",
+    "atividade": "slide-42",
+    "slides": [
+      42
+    ],
+    "descricao": "Exercício guiado 1: Saudação",
+    "pasta": "semana-03/exemplos/slide-42",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 3,
+    "categoria": "exemplos",
+    "atividade": "slide-43",
+    "slides": [
+      43
+    ],
+    "descricao": "Exercício guiado 2: Valor padrão",
+    "pasta": "semana-03/exemplos/slide-43",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 3,
+    "categoria": "exemplos",
+    "atividade": "slide-44",
+    "slides": [
+      44
+    ],
+    "descricao": "Exercício guiado 3: *args",
+    "pasta": "semana-03/exemplos/slide-44",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 3,
+    "categoria": "exemplos",
+    "atividade": "slide-45",
+    "slides": [
+      45
+    ],
+    "descricao": "Exercício guiado 4: Objeto mutável",
+    "pasta": "semana-03/exemplos/slide-45",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 3,
+    "categoria": "exemplos",
+    "atividade": "slide-46",
+    "slides": [
+      46
+    ],
+    "descricao": "Exercício guiado 5: Módulo importado",
+    "pasta": "semana-03/exemplos/slide-46",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 4,
+    "categoria": "exemplos",
+    "atividade": "slide-10",
+    "slides": [
+      10
+    ],
+    "descricao": "Lista",
+    "pasta": "semana-04/exemplos/slide-10",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 4,
+    "categoria": "exemplos",
+    "atividade": "slide-15",
+    "slides": [
+      15
+    ],
+    "descricao": "Tuplas",
+    "pasta": "semana-04/exemplos/slide-15",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 4,
+    "categoria": "exemplos",
+    "atividade": "slide-21",
+    "slides": [
+      21
+    ],
+    "descricao": "Conjuntos (sets)",
+    "pasta": "semana-04/exemplos/slide-21",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 4,
+    "categoria": "exemplos",
+    "atividade": "slide-33",
+    "slides": [
+      33
+    ],
+    "descricao": "Estoque modular",
+    "pasta": "semana-04/exemplos/slide-33",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 4,
+    "categoria": "exemplos",
+    "atividade": "slide-34",
+    "slides": [
+      34
+    ],
+    "descricao": "4.5 Exercícios Guiados - 1",
+    "pasta": "semana-04/exemplos/slide-34",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 4,
+    "categoria": "exemplos",
+    "atividade": "slide-35",
+    "slides": [
+      35
+    ],
+    "descricao": "4.5 Exercícios Guiados - 2",
+    "pasta": "semana-04/exemplos/slide-35",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 4,
+    "categoria": "exemplos",
+    "atividade": "slide-36",
+    "slides": [
+      36
+    ],
+    "descricao": "4.5 Exercícios Guiados - 3",
+    "pasta": "semana-04/exemplos/slide-36",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 4,
+    "categoria": "exemplos",
+    "atividade": "slide-37",
+    "slides": [
+      37
+    ],
+    "descricao": "4.5 Exercícios Guiados - 4",
+    "pasta": "semana-04/exemplos/slide-37",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 4,
+    "categoria": "exemplos",
+    "atividade": "slide-38",
+    "slides": [
+      38
+    ],
+    "descricao": "4.5 Exercícios Guiados - 5",
+    "pasta": "semana-04/exemplos/slide-38",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 5,
+    "categoria": "exemplos",
+    "atividade": "slide-05",
+    "slides": [
+      5
+    ],
+    "descricao": "Recap da Semana 4: Listas, Tuplas e Conjuntos",
+    "pasta": "semana-05/exemplos/slide-05",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 5,
+    "categoria": "exemplos",
+    "atividade": "slide-08",
+    "slides": [
+      8
+    ],
+    "descricao": "Recap da Semana 4: Manipulação Modular",
+    "pasta": "semana-05/exemplos/slide-08",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 5,
+    "categoria": "exemplos",
+    "atividade": "slide-14",
+    "slides": [
+      14
+    ],
+    "descricao": "Manipulação de CSV e JSON: Leitura e Escrita Estruturada",
+    "pasta": "semana-05/exemplos/slide-14",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 5,
+    "categoria": "exemplos",
+    "atividade": "slide-18",
+    "slides": [
+      18
+    ],
+    "descricao": "Validação de Dados com Regex: Email, CPF, Telefone e Datas",
+    "pasta": "semana-05/exemplos/slide-18",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 5,
+    "categoria": "exemplos",
+    "atividade": "slide-19",
+    "slides": [
+      19
+    ],
+    "descricao": "Extração e Substituição de Padrões em Texto",
+    "pasta": "semana-05/exemplos/slide-19",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 5,
+    "categoria": "exemplos",
+    "atividade": "slide-23",
+    "slides": [
+      23
+    ],
+    "descricao": "Análise de log",
+    "pasta": "semana-05/exemplos/slide-23",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 5,
+    "categoria": "exemplos",
+    "atividade": "slide-24",
+    "slides": [
+      24
+    ],
+    "descricao": "Exercício Guiado 1: Contador de Palavras em Arquivo",
+    "pasta": "semana-05/exemplos/slide-24",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 5,
+    "categoria": "exemplos",
+    "atividade": "slide-25",
+    "slides": [
+      25
+    ],
+    "descricao": "Exercício Guiado 2: Validador de Email e CPF",
+    "pasta": "semana-05/exemplos/slide-25",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 5,
+    "categoria": "exemplos",
+    "atividade": "slide-26",
+    "slides": [
+      26
+    ],
+    "descricao": "Exercício Guiado 3: Tratamento de Divisão",
+    "pasta": "semana-05/exemplos/slide-26",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 5,
+    "categoria": "exemplos",
+    "atividade": "slide-27",
+    "slides": [
+      27
+    ],
+    "descricao": "Exercício Guiado 4: Ler CSV e Filtrar Dados",
+    "pasta": "semana-05/exemplos/slide-27",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 5,
+    "categoria": "exemplos",
+    "atividade": "slide-28",
+    "slides": [
+      28
+    ],
+    "descricao": "Exercício Guiado 5: Exceção Personalizada de Idade",
+    "pasta": "semana-05/exemplos/slide-28",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 6,
+    "categoria": "exemplos",
+    "atividade": "slide-13",
+    "slides": [
+      13
+    ],
+    "descricao": "Classes e Objetos: Exemplo Completo",
+    "pasta": "semana-06/exemplos/slide-13",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 6,
+    "categoria": "exemplos",
+    "atividade": "slide-17",
+    "slides": [
+      17
+    ],
+    "descricao": "Conta bancária com extrato",
+    "pasta": "semana-06/exemplos/slide-17",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 6,
+    "categoria": "exemplos",
+    "atividade": "slide-28",
+    "slides": [
+      28
+    ],
+    "descricao": "Exercício Guiado 1: Classe Cliente",
+    "pasta": "semana-06/exemplos/slide-28",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 6,
+    "categoria": "exemplos",
+    "atividade": "slide-29",
+    "slides": [
+      29
+    ],
+    "descricao": "Exercício Guiado 2: Herança com Animais",
+    "pasta": "semana-06/exemplos/slide-29",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 6,
+    "categoria": "exemplos",
+    "atividade": "slide-30",
+    "slides": [
+      30
+    ],
+    "descricao": "Exercício Guiado 3: Conta com Encapsulamento",
+    "pasta": "semana-06/exemplos/slide-30",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 6,
+    "categoria": "exemplos",
+    "atividade": "slide-31",
+    "slides": [
+      31
+    ],
+    "descricao": "Exercício Guiado 4: Formas com Classe Abstrata",
+    "pasta": "semana-06/exemplos/slide-31",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 6,
+    "categoria": "exemplos",
+    "atividade": "slide-32",
+    "slides": [
+      32
+    ],
+    "descricao": "Exercício Guiado 5: Produtos com Polimorfismo",
+    "pasta": "semana-06/exemplos/slide-32",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 1,
+    "categoria": "pratica_independente",
+    "atividade": "01_troco",
+    "slides": [
+      43
+    ],
+    "descricao": "Calculadora de troco",
+    "pasta": "semana-01/pratica_independente/01_troco",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 1,
+    "categoria": "pratica_independente",
+    "atividade": "02_tempo",
+    "slides": [
+      43
+    ],
+    "descricao": "Conversor de tempo",
+    "pasta": "semana-01/pratica_independente/02_tempo",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 1,
+    "categoria": "pratica_independente",
+    "atividade": "03_par_impar",
+    "slides": [
+      43
+    ],
+    "descricao": "Par ou ímpar",
+    "pasta": "semana-01/pratica_independente/03_par_impar",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 1,
+    "categoria": "pratica_independente",
+    "atividade": "04_media",
+    "slides": [
+      43
+    ],
+    "descricao": "Média de três notas",
+    "pasta": "semana-01/pratica_independente/04_media",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 1,
+    "categoria": "pratica_independente",
+    "atividade": "05_desconto",
+    "slides": [
+      43
+    ],
+    "descricao": "Calculadora de desconto",
+    "pasta": "semana-01/pratica_independente/05_desconto",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 1,
+    "categoria": "pratica_independente",
+    "atividade": "06_nome_invertido",
+    "slides": [
+      43
+    ],
+    "descricao": "Inversor de nome",
+    "pasta": "semana-01/pratica_independente/06_nome_invertido",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 1,
+    "categoria": "desafios",
+    "atividade": "01_dias_tempo",
+    "slides": [
+      44
+    ],
+    "descricao": "Conversão de segundos em dias, horas, minutos e segundos",
+    "pasta": "semana-01/desafios/01_dias_tempo",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 1,
+    "categoria": "desafios",
+    "atividade": "02_circulo",
+    "slides": [
+      44
+    ],
+    "descricao": "Área e circunferência do círculo",
+    "pasta": "semana-01/desafios/02_circulo",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 1,
+    "categoria": "desafios",
+    "atividade": "03_frase",
+    "slides": [
+      44
+    ],
+    "descricao": "Análise de frase",
+    "pasta": "semana-01/desafios/03_frase",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 2,
+    "categoria": "pratica_independente",
+    "atividade": "01_classificacao",
+    "slides": [
+      50
+    ],
+    "descricao": "Classificação de cliente com if/elif/else",
+    "pasta": "semana-02/pratica_independente/01_classificacao",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 2,
+    "categoria": "desafios",
+    "atividade": "01_classificacao_if",
+    "slides": [
+      16
+    ],
+    "descricao": "Classificação com if/elif/else",
+    "pasta": "semana-02/desafios/01_classificacao_if",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 2,
+    "categoria": "desafios",
+    "atividade": "02_classificacao_match",
+    "slides": [
+      24
+    ],
+    "descricao": "Classificação com match/case",
+    "pasta": "semana-02/desafios/02_classificacao_match",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 2,
+    "categoria": "pratica_independente",
+    "atividade": "02_calculadora",
+    "slides": [
+      50
+    ],
+    "descricao": "Menu com quatro operações",
+    "pasta": "semana-02/pratica_independente/02_calculadora",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 2,
+    "categoria": "pratica_independente",
+    "atividade": "03_cinco_numeros",
+    "slides": [
+      50
+    ],
+    "descricao": "Análise de cinco números com for",
+    "pasta": "semana-02/pratica_independente/03_cinco_numeros",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 2,
+    "categoria": "pratica_independente",
+    "atividade": "04_senha",
+    "slides": [
+      50
+    ],
+    "descricao": "Senha com limite de três erros",
+    "pasta": "semana-02/pratica_independente/04_senha",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 2,
+    "categoria": "desafios",
+    "atividade": "03_positivos",
+    "slides": [
+      37
+    ],
+    "descricao": "Contar positivos entre dez números",
+    "pasta": "semana-02/desafios/03_positivos",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 2,
+    "categoria": "desafios",
+    "atividade": "04_nomes",
+    "slides": [
+      45
+    ],
+    "descricao": "Contar nomes até fim",
+    "pasta": "semana-02/desafios/04_nomes",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 2,
+    "categoria": "desafios",
+    "atividade": "05_cadastros",
+    "slides": [
+      51
+    ],
+    "descricao": "Cadastro com if, match, for e while",
+    "pasta": "semana-02/desafios/05_cadastros",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 3,
+    "categoria": "pratica_independente",
+    "atividade": "01_temperatura",
+    "slides": [
+      47
+    ],
+    "descricao": "Conversor com retorno",
+    "pasta": "semana-03/pratica_independente/01_temperatura",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 3,
+    "categoria": "pratica_independente",
+    "atividade": "02_senha",
+    "slides": [
+      47
+    ],
+    "descricao": "Validador de senha",
+    "pasta": "semana-03/pratica_independente/02_senha",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 3,
+    "categoria": "pratica_independente",
+    "atividade": "03_caixa",
+    "slides": [
+      47
+    ],
+    "descricao": "Caixa com parâmetros variáveis",
+    "pasta": "semana-03/pratica_independente/03_caixa",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 3,
+    "categoria": "pratica_independente",
+    "atividade": "04_ficha_aluno",
+    "slides": [
+      47
+    ],
+    "descricao": "Ficha do aluno com kwargs",
+    "pasta": "semana-03/pratica_independente/04_ficha_aluno",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 3,
+    "categoria": "pratica_independente",
+    "atividade": "05_utilidades",
+    "slides": [
+      47
+    ],
+    "descricao": "Módulo utilidades com três funções",
+    "pasta": "semana-03/pratica_independente/05_utilidades",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 3,
+    "categoria": "pratica_independente",
+    "atividade": "06_lista_segura",
+    "slides": [
+      47
+    ],
+    "descricao": "Adicionar item sem alterar a lista original",
+    "pasta": "semana-03/pratica_independente/06_lista_segura",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 3,
+    "categoria": "desafios",
+    "atividade": "01_estatistica",
+    "slides": [
+      48
+    ],
+    "descricao": "Média, mediana e moda com alias est",
+    "pasta": "semana-03/desafios/01_estatistica",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 3,
+    "categoria": "desafios",
+    "atividade": "02_fatorial",
+    "slides": [
+      48
+    ],
+    "descricao": "Fatorial recursivo",
+    "pasta": "semana-03/desafios/02_fatorial",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 3,
+    "categoria": "desafios",
+    "atividade": "03_relatorio",
+    "slides": [
+      48
+    ],
+    "descricao": "Relatório com args e kwargs",
+    "pasta": "semana-03/desafios/03_relatorio",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 3,
+    "categoria": "entregaveis",
+    "atividade": "calculadora",
+    "slides": [
+      50
+    ],
+    "descricao": "Módulo calculadora com divisão protegida",
+    "pasta": "semana-03/entregaveis/calculadora",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 4,
+    "categoria": "pratica_independente",
+    "atividade": "01_nomes",
+    "slides": [
+      39
+    ],
+    "descricao": "Relatório integrado de nomes",
+    "pasta": "semana-04/pratica_independente/01_nomes",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 4,
+    "categoria": "entregaveis",
+    "atividade": "sistema_produtos",
+    "slides": [
+      40,
+      42
+    ],
+    "descricao": "Sistema de produtos completo",
+    "pasta": "semana-04/entregaveis/sistema_produtos",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 5,
+    "categoria": "pratica_independente",
+    "atividade": "01_clientes",
+    "slides": [
+      29
+    ],
+    "descricao": "Cadastro de clientes CSV para JSON",
+    "pasta": "semana-05/pratica_independente/01_clientes",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 5,
+    "categoria": "pratica_independente",
+    "atividade": "02_log",
+    "slides": [
+      29
+    ],
+    "descricao": "Análise de log com IPs, datas e erros",
+    "pasta": "semana-05/pratica_independente/02_log",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 5,
+    "categoria": "pratica_independente",
+    "atividade": "03_formulario",
+    "slides": [
+      29
+    ],
+    "descricao": "Validação de formulário",
+    "pasta": "semana-05/pratica_independente/03_formulario",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 5,
+    "categoria": "pratica_independente",
+    "atividade": "04_notas",
+    "slides": [
+      29
+    ],
+    "descricao": "Processamento de notas",
+    "pasta": "semana-05/pratica_independente/04_notas",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 5,
+    "categoria": "pratica_independente",
+    "atividade": "05_estoque",
+    "slides": [
+      29
+    ],
+    "descricao": "Filtro de estoque por categoria",
+    "pasta": "semana-05/pratica_independente/05_estoque",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 5,
+    "categoria": "entregaveis",
+    "atividade": "analise_dados",
+    "slides": [
+      33
+    ],
+    "descricao": "Sistema de análise e validação de cadastros",
+    "pasta": "semana-05/entregaveis/analise_dados",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 6,
+    "categoria": "pratica_independente",
+    "atividade": "banco",
+    "slides": [
+      33
+    ],
+    "descricao": "Cenário escolhido: Banco",
+    "pasta": "semana-06/pratica_independente/banco",
+    "executar": "principal.py"
+  },
+  {
+    "semana": 6,
+    "categoria": "entregaveis",
+    "atividade": "sistema_bancario",
+    "slides": [
+      37
+    ],
+    "descricao": "Sistema orientado a objetos completo",
+    "pasta": "semana-06/entregaveis/sistema_bancario",
+    "executar": "principal.py"
+  }
+]

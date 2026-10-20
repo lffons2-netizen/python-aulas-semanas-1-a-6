@@ -1,7 +1,0 @@
-class Cachorro(Animal):
-    def __init__(self, nome, raca):
-        super().__init__(nome)  # usa a mãe
-        self.raca = raca        # e adiciona
-
-rex = Cachorro("Rex", "Labrador")
-print(rex.nome, rex.raca)  # Rex Labrador

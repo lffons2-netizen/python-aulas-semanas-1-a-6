@@ -1,4 +1,0 @@
-if True:
-    print("ok")
-      print("erro")
-# erro: indentação inconsistente

@@ -1,5 +1,0 @@
->>> 2 + 2
-4
->>> nome = "Python"
->>> print(nome)
-Python

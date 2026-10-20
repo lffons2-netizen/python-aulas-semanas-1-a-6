@@ -1,4 +1,0 @@
-resultado = None
-print(resultado)        # None
-print(type(resultado))
-# <class 'NoneType'>

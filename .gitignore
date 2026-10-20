@@ -2,3 +2,8 @@ __pycache__/
 *.py[cod]
 .venv/
 .vscode/
+clientes.json
+formularios.json
+resumo.json
+relatorio_*.json
+saida.*

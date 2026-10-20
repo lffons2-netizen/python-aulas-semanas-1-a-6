@@ -1,6 +1,0 @@
-t = "25"
-int(t)
-# str→int
-float("1.75")
-str(100)
-bool(1)

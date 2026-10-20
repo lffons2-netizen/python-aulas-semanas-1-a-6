@@ -1,3 +1,0 @@
-idade >= 18 and tem_carteira
-idade >= 18 or tem_carteira
-not tem_carteira

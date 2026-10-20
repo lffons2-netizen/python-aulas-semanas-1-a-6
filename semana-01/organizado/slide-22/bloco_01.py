@@ -1,6 +1,0 @@
-# Semana 1 | Slide 22 | Bloco 1
-x, y, z, w = 10, 3.14, "texto", True
-print(type(x))  # <class 'int'>
-print(type(y))  # <class 'float'>
-print(type(z))  # <class 'str'>
-print(type(w))  # <class 'bool'>
