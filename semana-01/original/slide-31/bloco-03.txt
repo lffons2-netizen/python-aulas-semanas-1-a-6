@@ -1,0 +1,6 @@
+frase.split()
+frase.count("i")
+frase.find(
+  "lingua")
+"-".join(
+  ["a","b"])

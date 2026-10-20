@@ -1,0 +1,9 @@
+# dois conjuntos de valores
+A = {1, 2, 3}
+B = {3, 4, 5}
+# uniao: tudo de A e de B
+print(A | B)  # {1, 2, 3, 4, 5}
+# intersecao: o que ha nos dois
+print(A & B)  # {3}
+# diferenca: so o que e de A
+print(A - B)  # {1, 2}

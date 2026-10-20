@@ -1,0 +1,11 @@
+# Semana 3 | Slide 19 | Bloco 1
+# int, float, str e tupla: imutaveis
+def dobrar(numero):
+    numero = numero * 2  # novo objeto
+    return numero
+
+valor = 10
+print(dobrar(valor))     # 20
+print(valor)             # 10 (intacto)
+
+# str: "abc".upper() cria outra string

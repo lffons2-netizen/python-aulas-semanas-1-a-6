@@ -1,0 +1,19 @@
+# Semana 5 | Slide 7 | Bloco 1
+# Lista original
+numeros = [10, 5, 20, 3, 42, 7]
+
+# Filtragem com list comprehension
+maiores = [x for x in numeros if x > 10]
+print(maiores)  # [20, 42]
+
+# Filtragem com filter()
+pares = list(filter(lambda x: x % 2 == 0, numeros))
+print(pares)  # [10, 20, 42]
+
+# Ordenação
+numeros.sort()
+print(numeros)  # [3, 5, 7, 10, 20, 42]
+
+# Ordem decrescente
+numeros.sort(reverse=True)
+print(numeros)  # [42, 20, 10, 7, 5, 3]

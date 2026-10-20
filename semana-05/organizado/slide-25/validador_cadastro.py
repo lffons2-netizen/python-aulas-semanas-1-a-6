@@ -1,0 +1,19 @@
+# Semana 5 | Slide 25 | Bloco 1
+import re
+
+def validar_email(email):
+    padrao = r"^[\w\.-]+@[\w\.-]+\.\w+$"
+    return bool(re.match(padrao, email))
+
+def validar_cpf(cpf):
+    padrao = r"^\d{3}\.\d{3}\.\d{3}-\d{2}$"
+    return bool(re.match(padrao, cpf))
+
+# Testes
+emails = ["ana@email.com", "invalido", "bruno@empresa.com.br"]
+for e in emails:
+    print(f"{e}: {'válido' if validar_email(e) else 'inválido'}")
+
+cpfs = ["123.456.789-00", "12345678900"]
+for c in cpfs:
+    print(f"{c}: {'válido' if validar_cpf(c) else 'inválido'}")

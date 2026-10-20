@@ -1,0 +1,5 @@
+nome = "Ana"
+apelido = nome
+nome = "Ana Paula"
+idade = 20
+idade_dobrada = idade * 2

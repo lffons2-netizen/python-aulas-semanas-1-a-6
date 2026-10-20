@@ -1,0 +1,4 @@
+def adicionar(estoque, produto):
+    if produto not in estoque:
+        estoque.append(produto)
+    return estoque

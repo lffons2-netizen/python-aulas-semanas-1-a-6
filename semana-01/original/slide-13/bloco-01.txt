@@ -1,0 +1,4 @@
+if True:
+    print("Bloco indentado")
+    print("Ainda dentro do if")
+print("Fora do if")

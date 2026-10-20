@@ -1,0 +1,6 @@
+def remover(estoque, produto):
+    if produto in estoque:
+        estoque.remove(produto)
+    else:
+        print("Produto não encontrado")
+    return estoque

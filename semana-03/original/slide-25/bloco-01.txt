@@ -1,0 +1,9 @@
+# posicionais e obrigatorios
+def saudar(nome, sobrenome):
+    return nome + " " + sobrenome
+
+print(saudar("Ana", "Lu"))
+# Ana Lu
+
+print(saudar("Lu", "Ana"))
+# Lu Ana -> ordem trocada!

@@ -1,0 +1,8 @@
+Cliente(...)
+print(obj)
+repr(obj)
+len(obj)
+a == b
+a < b
+a + b
+for x in obj

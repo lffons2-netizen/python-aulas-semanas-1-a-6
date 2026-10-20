@@ -1,0 +1,9 @@
+# procedimento: so executa acao
+def saudar(nome):
+    print(f"Ola, {nome}!")  # exibe
+    # nao existe return aqui
+
+saudar("Ana")        # Ola, Ana!
+
+r = saudar("Ana")
+print(r)             # None

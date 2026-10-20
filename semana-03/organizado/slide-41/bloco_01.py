@@ -1,0 +1,11 @@
+# Semana 3 | Slide 41 | Bloco 1
+import calculadoraa
+# ModuleNotFoundError:
+# erro de digitacao no nome
+
+# Proteja o teste do modulo:
+if __name__ == "__main__":
+    print(somar(2, 3))
+
+# math.py na sua pasta
+# esconde o modulo padrao

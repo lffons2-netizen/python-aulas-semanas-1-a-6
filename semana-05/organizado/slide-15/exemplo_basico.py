@@ -1,0 +1,7 @@
+# Semana 5 | Slide 15 | Bloco 2
+import re
+
+texto = "Meu email é ana@email.com e o dela é bruno@email.com"
+padrao = r"[\w\.-]+@[\w\.-]+\.\w+"
+emails = re.findall(padrao, texto)
+print(emails)  # ['ana@email.com', 'bruno@email.com']

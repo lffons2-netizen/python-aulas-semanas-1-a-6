@@ -1,0 +1,2 @@
+idade = 20
+tem_carteira = True

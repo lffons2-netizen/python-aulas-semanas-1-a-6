@@ -1,0 +1,19 @@
+# Semana 5 | Slide 11 | Bloco 1
+# read() — lê tudo
+with open("dados.txt", "r", encoding="utf-8") as f:
+    print(f.read())
+
+# readline() — lê uma linha
+with open("dados.txt", "r", encoding="utf-8") as f:
+    print(f.readline())  # primeira linha
+    print(f.readline())  # segunda linha
+
+# readlines() — lista de linhas
+with open("dados.txt", "r", encoding="utf-8") as f:
+    linhas = f.readlines()
+    print(linhas)  # ['linha1\n', 'linha2\n', ...]
+
+# Iteração direta (mais eficiente)
+with open("dados.txt", "r", encoding="utf-8") as f:
+    for linha in f:
+        print(linha.strip())

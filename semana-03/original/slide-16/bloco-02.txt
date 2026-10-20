@@ -1,0 +1,3 @@
+media = calcular_media(
+    [8, 6, 10])  # GLOBAL
+# print(t) -> NameError

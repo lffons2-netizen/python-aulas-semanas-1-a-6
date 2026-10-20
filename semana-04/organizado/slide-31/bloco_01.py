@@ -1,0 +1,11 @@
+# Semana 4 | Slide 31 | Bloco 1
+# arquivo: iterar.py
+def iterar(estoque):
+    # enumerate da indice e valor
+    for i, produto in enumerate(estoque,
+                                 start=1):
+        print(i, "-", produto)
+    print("Total:", len(estoque))
+
+if __name__ == "__main__":
+    iterar(["mouse", "teclado"])

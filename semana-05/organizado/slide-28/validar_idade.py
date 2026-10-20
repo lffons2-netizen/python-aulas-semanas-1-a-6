@@ -1,0 +1,16 @@
+# Semana 5 | Slide 28 | Bloco 1
+class IdadeInvalidaError(Exception):
+    """Exceção para idade menor que 18."""
+    pass
+
+def validar_idade(idade):
+    if idade < 18:
+        raise IdadeInvalidaError(f"Idade {idade} é menor que 18.")
+    return True
+
+try:
+    validar_idade(15)
+except IdadeInvalidaError as e:
+    print(f"Erro: {e}")
+else:
+    print("Idade válida.")

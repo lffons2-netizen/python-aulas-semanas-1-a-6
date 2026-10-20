@@ -1,0 +1,9 @@
+# Arquivo: calculadora.py
+
+def somar(a, b):
+    """Soma dois numeros."""
+    return a + b
+
+def subtrair(a, b):
+    """Devolve a diferenca."""
+    return a - b

@@ -1,0 +1,14 @@
+# Semana 5 | Slide 24 | Bloco 1
+def contar_palavras(caminho):
+    try:
+        with open(caminho, "r", encoding="utf-8") as f:
+            conteudo = f.read()
+    except FileNotFoundError:
+        print("Arquivo não encontrado.")
+        return
+
+    palavras = conteudo.split()
+    print(f"Total de palavras: {len(palavras)}")
+    print(f"Palavras únicas: {len(set(palavras))}")
+
+contar_palavras("texto.txt")

@@ -1,0 +1,7 @@
+match opcao:
+    case 1:
+        print("Iniciar")
+    case 2:
+        print("Configurações")
+    case _:
+        print("Opção inválida")

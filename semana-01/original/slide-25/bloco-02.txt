@@ -1,0 +1,4 @@
+"abc" == "abc"     # True
+"abc" == "ABC"     # False (case-
+sensitive)
+"banana" > "abacaxi"  # True (alfabética)

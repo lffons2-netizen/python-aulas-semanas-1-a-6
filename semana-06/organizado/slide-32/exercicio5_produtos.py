@@ -1,0 +1,23 @@
+# Semana 6 | Slide 32 | Bloco 1
+class Produto:
+    def __init__(self, nome, preco):
+        self.nome = nome
+        self.preco = preco
+
+    def calcular_preco_final(self):
+        return self.preco
+
+    def __str__(self):
+        return f"{self.nome}: R$ {self.calcular_preco_final():.2f}"
+
+class ProdutoFisico(Produto):
+    def __init__(self, nome, preco, frete):
+        super().__init__(nome, preco)
+        self.frete = frete
+
+    def calcular_preco_final(self):
+        return self.preco + self.frete
+
+class ProdutoDigital(Produto):
+    def calcular_preco_final(self):
+        return self.preco * 0.9   # 10% de desconto

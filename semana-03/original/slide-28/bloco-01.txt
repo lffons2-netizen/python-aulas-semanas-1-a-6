@@ -1,0 +1,9 @@
+def somar(*numeros):
+    # numeros chega como TUPLA
+    return sum(numeros)
+
+print(somar(1, 2, 3, 4))   # 10
+print(somar())             # 0
+
+valores = [1, 2, 3]
+print(somar(*valores))     # 6

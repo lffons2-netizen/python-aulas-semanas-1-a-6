@@ -1,0 +1,13 @@
+# Processamento (Cálculo da média)
+media = (nota1 + nota2 + nota3) / 3
+
+# Exibição da média formatada com duas casas decimais
+print(f"Média: {media:.2f}")
+
+# Estrutura Condicional
+if media >= 7.0:
+    print("Classificação: APROVADO")
+elif media >= 5.0:
+    print("Classificação: RECUPERAÇÃO")
+else:
+    print("Classificação: REPROVADO")

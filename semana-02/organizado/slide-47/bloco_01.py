@@ -1,0 +1,12 @@
+# Semana 2 | Slide 47 | Bloco 1
+opcao = int(input("Escolha (1-3): "))
+
+match opcao:
+    case 1:
+        print("Somando...")
+    case 2:
+        print("Subtraindo...")
+    case 3:
+        print("Multiplicando...")
+    case _:
+        print("Opção inválida")

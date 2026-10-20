@@ -1,0 +1,10 @@
+# Semana 6 | Slide 24 | Bloco 3
+class Circulo:
+    def __init__(self, raio): self.raio = raio
+    def area(self): return 3.14 * self.raio ** 2
+class Quadrado:
+    def __init__(self, lado): self.lado = lado
+    def area(self): return self.lado ** 2
+
+for forma in [Circulo(5), Quadrado(4)]:
+    print(forma.area())   # 78.5 e 16

@@ -1,0 +1,1 @@
+arquivo = open("nome.txt", "modo", encoding="utf-8")

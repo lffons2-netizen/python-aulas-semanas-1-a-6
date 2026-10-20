@@ -1,0 +1,4 @@
+idade = 25
+nome = "Carlos"
+print(f"{nome},
+  {idade} anos")

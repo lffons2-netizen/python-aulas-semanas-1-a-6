@@ -1,0 +1,6 @@
+class NomeDaClasse:
+objeto = NomeDaClasse(args)
+ana = Cliente("Ana", ...)
+class Cliente:
+ana = Cliente(...)
+type(42)

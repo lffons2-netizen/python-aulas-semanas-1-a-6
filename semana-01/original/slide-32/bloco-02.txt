@@ -1,0 +1,2 @@
+idade = input("Idade: ")
+print(type(idade))

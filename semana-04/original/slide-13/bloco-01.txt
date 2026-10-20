@@ -1,0 +1,9 @@
+# declaracao da tupla (parenteses)
+ponto = (10, 20, 30)
+# acesso pelo indice (inicia em 0)
+print(ponto[0])  # imprime 10
+# imprime a tupla inteira
+print(ponto)      # (10, 20, 30)
+# percorrendo a tupla
+for valor in ponto:
+    print(valor)

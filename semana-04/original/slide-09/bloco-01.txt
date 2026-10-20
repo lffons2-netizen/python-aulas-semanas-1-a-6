@@ -1,0 +1,8 @@
+lista.append(40)
+lista.insert(1, 15)
+lista.remove(20)
+x = lista.pop()
+lista.count(10)
+lista.index(30)
+lista.sort()
+lista.reverse()

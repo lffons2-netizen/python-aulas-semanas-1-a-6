@@ -1,0 +1,12 @@
+# Semana 6 | Slide 24 | Bloco 1
+class Pato:
+    def emitir_som(self):
+        return "Quack!"
+
+class Pessoa:
+    def emitir_som(self):
+        return "Olá!"
+
+# Não importa o tipo, só o método
+for obj in [Pato(), Pessoa()]:
+    print(obj.emitir_som())

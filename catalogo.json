@@ -1,0 +1,2245 @@
+[
+  {
+    "semana": 1,
+    "slide": 8,
+    "bloco": 1,
+    "original": "semana-01/original/slide-08/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-08/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 10,
+    "bloco": 1,
+    "original": "semana-01/original/slide-10/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-10/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Removidos prompts e saídas do REPL; mantidas as instruções Python."
+    ]
+  },
+  {
+    "semana": 1,
+    "slide": 10,
+    "bloco": 2,
+    "original": "semana-01/original/slide-10/bloco-02.txt",
+    "organizado": "semana-01/organizado/slide-10/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 12,
+    "bloco": 1,
+    "original": "semana-01/original/slide-12/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-12/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 13,
+    "bloco": 1,
+    "original": "semana-01/original/slide-13/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-13/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 13,
+    "bloco": 2,
+    "original": "semana-01/original/slide-13/bloco-02.txt",
+    "organizado": "semana-01/organizado/slide-13/bloco-02.md",
+    "tipo": "erro didático",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 13,
+    "bloco": 3,
+    "original": "semana-01/original/slide-13/bloco-03.txt",
+    "organizado": "semana-01/organizado/slide-13/bloco-03.md",
+    "tipo": "erro didático",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 14,
+    "bloco": 1,
+    "original": "semana-01/original/slide-14/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-14/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 14,
+    "bloco": 2,
+    "original": "semana-01/original/slide-14/bloco-02.txt",
+    "organizado": "semana-01/organizado/slide-14/bloco_02.py",
+    "tipo": "trecho que requer contexto",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 14,
+    "bloco": 3,
+    "original": "semana-01/original/slide-14/bloco-03.txt",
+    "organizado": "semana-01/organizado/slide-14/bloco_03.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 15,
+    "bloco": 1,
+    "original": "semana-01/original/slide-15/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-15/bloco-01.md",
+    "tipo": "erro didático",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 16,
+    "bloco": 1,
+    "original": "semana-01/original/slide-16/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-16/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 17,
+    "bloco": 1,
+    "original": "semana-01/original/slide-17/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-17/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 17,
+    "bloco": 2,
+    "original": "semana-01/original/slide-17/bloco-02.txt",
+    "organizado": "semana-01/organizado/slide-17/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 17,
+    "bloco": 3,
+    "original": "semana-01/original/slide-17/bloco-03.txt",
+    "organizado": "semana-01/organizado/slide-17/bloco_03.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 18,
+    "bloco": 1,
+    "original": "semana-01/original/slide-18/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-18/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 18,
+    "bloco": 2,
+    "original": "semana-01/original/slide-18/bloco-02.txt",
+    "organizado": "semana-01/organizado/slide-18/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 18,
+    "bloco": 3,
+    "original": "semana-01/original/slide-18/bloco-03.txt",
+    "organizado": "semana-01/organizado/slide-18/bloco_03.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 20,
+    "bloco": 1,
+    "original": "semana-01/original/slide-20/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-20/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 20,
+    "bloco": 2,
+    "original": "semana-01/original/slide-20/bloco-02.txt",
+    "organizado": "semana-01/organizado/slide-20/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 21,
+    "bloco": 1,
+    "original": "semana-01/original/slide-21/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-21/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 21,
+    "bloco": 2,
+    "original": "semana-01/original/slide-21/bloco-02.txt",
+    "organizado": "semana-01/organizado/slide-21/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 22,
+    "bloco": 1,
+    "original": "semana-01/original/slide-22/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-22/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 22,
+    "bloco": 2,
+    "original": "semana-01/original/slide-22/bloco-02.txt",
+    "organizado": "semana-01/organizado/slide-22/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 23,
+    "bloco": 1,
+    "original": "semana-01/original/slide-23/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-23/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 23,
+    "bloco": 2,
+    "original": "semana-01/original/slide-23/bloco-02.txt",
+    "organizado": "semana-01/organizado/slide-23/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 24,
+    "bloco": 1,
+    "original": "semana-01/original/slide-24/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-24/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 24,
+    "bloco": 2,
+    "original": "semana-01/original/slide-24/bloco-02.txt",
+    "organizado": "semana-01/organizado/slide-24/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 25,
+    "bloco": 1,
+    "original": "semana-01/original/slide-25/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-25/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 25,
+    "bloco": 2,
+    "original": "semana-01/original/slide-25/bloco-02.txt",
+    "organizado": "semana-01/organizado/slide-25/bloco-02.md",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 26,
+    "bloco": 1,
+    "original": "semana-01/original/slide-26/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-26/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 26,
+    "bloco": 2,
+    "original": "semana-01/original/slide-26/bloco-02.txt",
+    "organizado": "semana-01/organizado/slide-26/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Incluído o contexto já apresentado nos outros blocos do mesmo slide."
+    ]
+  },
+  {
+    "semana": 1,
+    "slide": 28,
+    "bloco": 1,
+    "original": "semana-01/original/slide-28/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-28/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 29,
+    "bloco": 1,
+    "original": "semana-01/original/slide-29/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-29/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 30,
+    "bloco": 1,
+    "original": "semana-01/original/slide-30/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-30/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 30,
+    "bloco": 2,
+    "original": "semana-01/original/slide-30/bloco-02.txt",
+    "organizado": "semana-01/organizado/slide-30/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Reunidas as linhas de strings/comentários quebradas visualmente no PDF."
+    ]
+  },
+  {
+    "semana": 1,
+    "slide": 30,
+    "bloco": 3,
+    "original": "semana-01/original/slide-30/bloco-03.txt",
+    "organizado": "semana-01/organizado/slide-30/bloco_03.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 31,
+    "bloco": 1,
+    "original": "semana-01/original/slide-31/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-31/bloco_01.py",
+    "tipo": "erro didático",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 31,
+    "bloco": 2,
+    "original": "semana-01/original/slide-31/bloco-02.txt",
+    "organizado": "semana-01/organizado/slide-31/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 31,
+    "bloco": 3,
+    "original": "semana-01/original/slide-31/bloco-03.txt",
+    "organizado": "semana-01/organizado/slide-31/bloco_03.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Variável frase apresentada no slide 20."
+    ]
+  },
+  {
+    "semana": 1,
+    "slide": 32,
+    "bloco": 1,
+    "original": "semana-01/original/slide-32/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-32/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 32,
+    "bloco": 2,
+    "original": "semana-01/original/slide-32/bloco-02.txt",
+    "organizado": "semana-01/organizado/slide-32/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 32,
+    "bloco": 3,
+    "original": "semana-01/original/slide-32/bloco-03.txt",
+    "organizado": "semana-01/organizado/slide-32/bloco_03.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 33,
+    "bloco": 1,
+    "original": "semana-01/original/slide-33/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-33/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 33,
+    "bloco": 2,
+    "original": "semana-01/original/slide-33/bloco-02.txt",
+    "organizado": "semana-01/organizado/slide-33/bloco_02.py",
+    "tipo": "erro didático",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 33,
+    "bloco": 3,
+    "original": "semana-01/original/slide-33/bloco-03.txt",
+    "organizado": "semana-01/organizado/slide-33/bloco_03.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 34,
+    "bloco": 1,
+    "original": "semana-01/original/slide-34/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-34/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 34,
+    "bloco": 2,
+    "original": "semana-01/original/slide-34/bloco-02.txt",
+    "organizado": "semana-01/organizado/slide-34/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Atribuição x = 10 do passo anterior do mesmo slide."
+    ]
+  },
+  {
+    "semana": 1,
+    "slide": 34,
+    "bloco": 3,
+    "original": "semana-01/original/slide-34/bloco-03.txt",
+    "organizado": "semana-01/organizado/slide-34/bloco_03.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 35,
+    "bloco": 1,
+    "original": "semana-01/original/slide-35/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-35/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 35,
+    "bloco": 2,
+    "original": "semana-01/original/slide-35/bloco-02.txt",
+    "organizado": "semana-01/organizado/slide-35/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Atribuição a = \"Python\" do passo anterior do mesmo slide."
+    ]
+  },
+  {
+    "semana": 1,
+    "slide": 35,
+    "bloco": 3,
+    "original": "semana-01/original/slide-35/bloco-03.txt",
+    "organizado": "semana-01/organizado/slide-35/bloco_03.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Atribuições dos passos anteriores do mesmo slide."
+    ]
+  },
+  {
+    "semana": 1,
+    "slide": 35,
+    "bloco": 4,
+    "original": "semana-01/original/slide-35/bloco-04.txt",
+    "organizado": "semana-01/organizado/slide-35/bloco_04.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Incluído o contexto já apresentado nos outros blocos do mesmo slide."
+    ]
+  },
+  {
+    "semana": 1,
+    "slide": 36,
+    "bloco": 1,
+    "original": "semana-01/original/slide-36/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-36/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Valor Texto exibido no diagrama do próprio slide."
+    ]
+  },
+  {
+    "semana": 1,
+    "slide": 37,
+    "bloco": 1,
+    "original": "semana-01/original/slide-37/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-37/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 38,
+    "bloco": 1,
+    "original": "semana-01/original/slide-38/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-38/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 39,
+    "bloco": 1,
+    "original": "semana-01/original/slide-39/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-39/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 40,
+    "bloco": 1,
+    "original": "semana-01/original/slide-40/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-40/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 41,
+    "bloco": 1,
+    "original": "semana-01/original/slide-41/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-41/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 1,
+    "slide": 42,
+    "bloco": 1,
+    "original": "semana-01/original/slide-42/bloco-01.txt",
+    "organizado": "semana-01/organizado/slide-42/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 2,
+    "slide": 8,
+    "bloco": 1,
+    "original": "semana-02/original/slide-08/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-08/bloco-01.md",
+    "tipo": "fragmento de referência",
+    "alteracoes": []
+  },
+  {
+    "semana": 2,
+    "slide": 9,
+    "bloco": 1,
+    "original": "semana-02/original/slide-09/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-09/bloco-01.md",
+    "tipo": "fragmento de referência",
+    "alteracoes": []
+  },
+  {
+    "semana": 2,
+    "slide": 11,
+    "bloco": 1,
+    "original": "semana-02/original/slide-11/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-11/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Entrada de contexto incluída ou continuação do menu reunida."
+    ]
+  },
+  {
+    "semana": 2,
+    "slide": 14,
+    "bloco": 1,
+    "original": "semana-02/original/slide-14/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-14/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 2,
+    "slide": 15,
+    "bloco": 1,
+    "original": "semana-02/original/slide-15/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-15/situacao_academica.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Reunidas as entradas do slide 14."
+    ]
+  },
+  {
+    "semana": 2,
+    "slide": 18,
+    "bloco": 1,
+    "original": "semana-02/original/slide-18/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-18/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Entrada de contexto incluída ou continuação do menu reunida."
+    ]
+  },
+  {
+    "semana": 2,
+    "slide": 20,
+    "bloco": 1,
+    "original": "semana-02/original/slide-20/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-20/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Reunidas as linhas de strings/comentários quebradas visualmente no PDF."
+    ]
+  },
+  {
+    "semana": 2,
+    "slide": 21,
+    "bloco": 1,
+    "original": "semana-02/original/slide-21/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-21/bloco-01.md",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Reunidas as linhas de strings/comentários quebradas visualmente no PDF.",
+      "Entrada de contexto incluída ou continuação do menu reunida."
+    ]
+  },
+  {
+    "semana": 2,
+    "slide": 22,
+    "bloco": 1,
+    "original": "semana-02/original/slide-22/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-22/bloco_01.md",
+    "tipo": "fragmento de referência",
+    "alteracoes": [
+      "Reunidas as linhas de strings/comentários quebradas visualmente no PDF.",
+      "Entrada de contexto incluída ou continuação do menu reunida."
+    ]
+  },
+  {
+    "semana": 2,
+    "slide": 27,
+    "bloco": 1,
+    "original": "semana-02/original/slide-27/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-27/bloco-01.md",
+    "tipo": "fragmento de referência",
+    "alteracoes": [
+      "Reunidas as linhas de strings/comentários quebradas visualmente no PDF."
+    ]
+  },
+  {
+    "semana": 2,
+    "slide": 28,
+    "bloco": 1,
+    "original": "semana-02/original/slide-28/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-28/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 2,
+    "slide": 29,
+    "bloco": 1,
+    "original": "semana-02/original/slide-29/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-29/bloco-01.md",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 2,
+    "slide": 30,
+    "bloco": 1,
+    "original": "semana-02/original/slide-30/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-30/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 2,
+    "slide": 31,
+    "bloco": 1,
+    "original": "semana-02/original/slide-31/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-31/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 2,
+    "slide": 32,
+    "bloco": 1,
+    "original": "semana-02/original/slide-32/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-32/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 2,
+    "slide": 33,
+    "bloco": 1,
+    "original": "semana-02/original/slide-33/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-33/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 2,
+    "slide": 34,
+    "bloco": 1,
+    "original": "semana-02/original/slide-34/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-34/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 2,
+    "slide": 36,
+    "bloco": 1,
+    "original": "semana-02/original/slide-36/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-36/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Reunidas as linhas de strings/comentários quebradas visualmente no PDF."
+    ]
+  },
+  {
+    "semana": 2,
+    "slide": 40,
+    "bloco": 1,
+    "original": "semana-02/original/slide-40/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-40/bloco-01.md",
+    "tipo": "fragmento de referência",
+    "alteracoes": [
+      "Reunidas as linhas de strings/comentários quebradas visualmente no PDF."
+    ]
+  },
+  {
+    "semana": 2,
+    "slide": 41,
+    "bloco": 1,
+    "original": "semana-02/original/slide-41/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-41/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 2,
+    "slide": 44,
+    "bloco": 1,
+    "original": "semana-02/original/slide-44/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-44/bloco-01.md",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Reunidas as linhas de strings/comentários quebradas visualmente no PDF."
+    ]
+  },
+  {
+    "semana": 2,
+    "slide": 46,
+    "bloco": 1,
+    "original": "semana-02/original/slide-46/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-46/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 2,
+    "slide": 47,
+    "bloco": 1,
+    "original": "semana-02/original/slide-47/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-47/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 2,
+    "slide": 48,
+    "bloco": 1,
+    "original": "semana-02/original/slide-48/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-48/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 2,
+    "slide": 49,
+    "bloco": 1,
+    "original": "semana-02/original/slide-49/bloco-01.txt",
+    "organizado": "semana-02/organizado/slide-49/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 10,
+    "bloco": 1,
+    "original": "semana-03/original/slide-10/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-10/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 11,
+    "bloco": 1,
+    "original": "semana-03/original/slide-11/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-11/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 12,
+    "bloco": 1,
+    "original": "semana-03/original/slide-12/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-12/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 13,
+    "bloco": 1,
+    "original": "semana-03/original/slide-13/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-13/bloco_01.py",
+    "tipo": "erro didático",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 14,
+    "bloco": 1,
+    "original": "semana-03/original/slide-14/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-14/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 15,
+    "bloco": 1,
+    "original": "semana-03/original/slide-15/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-15/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 16,
+    "bloco": 1,
+    "original": "semana-03/original/slide-16/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-16/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Reunida a declaração def calcular_media, dividida no slide."
+    ]
+  },
+  {
+    "semana": 3,
+    "slide": 16,
+    "bloco": 2,
+    "original": "semana-03/original/slide-16/bloco-02.txt",
+    "organizado": "semana-03/organizado/slide-16/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Definição da função do primeiro painel incluída."
+    ]
+  },
+  {
+    "semana": 3,
+    "slide": 16,
+    "bloco": 3,
+    "original": "semana-03/original/slide-16/bloco-03.txt",
+    "organizado": "semana-03/organizado/slide-16/bloco_03.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "help(funcao) aponta para calcular_media, função do próprio slide, incluída no arquivo."
+    ]
+  },
+  {
+    "semana": 3,
+    "slide": 17,
+    "bloco": 1,
+    "original": "semana-03/original/slide-17/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-17/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 18,
+    "bloco": 1,
+    "original": "semana-03/original/slide-18/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-18/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 19,
+    "bloco": 1,
+    "original": "semana-03/original/slide-19/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-19/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 20,
+    "bloco": 1,
+    "original": "semana-03/original/slide-20/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-20/bloco_01.py",
+    "tipo": "trecho que requer contexto",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 21,
+    "bloco": 1,
+    "original": "semana-03/original/slide-21/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-21/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 21,
+    "bloco": 2,
+    "original": "semana-03/original/slide-21/bloco-02.txt",
+    "organizado": "semana-03/organizado/slide-21/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 22,
+    "bloco": 1,
+    "original": "semana-03/original/slide-22/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-22/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 25,
+    "bloco": 1,
+    "original": "semana-03/original/slide-25/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-25/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 26,
+    "bloco": 1,
+    "original": "semana-03/original/slide-26/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-26/bloco-01.md",
+    "tipo": "erro didático",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 27,
+    "bloco": 1,
+    "original": "semana-03/original/slide-27/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-27/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 28,
+    "bloco": 1,
+    "original": "semana-03/original/slide-28/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-28/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 29,
+    "bloco": 1,
+    "original": "semana-03/original/slide-29/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-29/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 30,
+    "bloco": 1,
+    "original": "semana-03/original/slide-30/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-30/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 31,
+    "bloco": 1,
+    "original": "semana-03/original/slide-31/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-31/bloco-01.md",
+    "tipo": "fragmento de referência",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 32,
+    "bloco": 1,
+    "original": "semana-03/original/slide-32/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-32/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 33,
+    "bloco": 1,
+    "original": "semana-03/original/slide-33/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-33/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 34,
+    "bloco": 1,
+    "original": "semana-03/original/slide-34/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-34/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 35,
+    "bloco": 1,
+    "original": "semana-03/original/slide-35/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-35/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 36,
+    "bloco": 1,
+    "original": "semana-03/original/slide-36/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-36/calculadora.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Estrutura de pastas descrita no README; arquivo contém somente o módulo Python."
+    ]
+  },
+  {
+    "semana": 3,
+    "slide": 37,
+    "bloco": 1,
+    "original": "semana-03/original/slide-37/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-37/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 38,
+    "bloco": 1,
+    "original": "semana-03/original/slide-38/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-38/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 39,
+    "bloco": 1,
+    "original": "semana-03/original/slide-39/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-39/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 40,
+    "bloco": 1,
+    "original": "semana-03/original/slide-40/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-40/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 41,
+    "bloco": 1,
+    "original": "semana-03/original/slide-41/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-41/bloco_01.py",
+    "tipo": "erro didático",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 42,
+    "bloco": 1,
+    "original": "semana-03/original/slide-42/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-42/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 43,
+    "bloco": 1,
+    "original": "semana-03/original/slide-43/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-43/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 44,
+    "bloco": 1,
+    "original": "semana-03/original/slide-44/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-44/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 45,
+    "bloco": 1,
+    "original": "semana-03/original/slide-45/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-45/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 3,
+    "slide": 46,
+    "bloco": 1,
+    "original": "semana-03/original/slide-46/bloco-01.txt",
+    "organizado": "semana-03/organizado/slide-46/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 6,
+    "bloco": 1,
+    "original": "semana-04/original/slide-06/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-06/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 7,
+    "bloco": 1,
+    "original": "semana-04/original/slide-07/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-07/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 8,
+    "bloco": 1,
+    "original": "semana-04/original/slide-08/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-08/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 9,
+    "bloco": 1,
+    "original": "semana-04/original/slide-09/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-09/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Lista apresentada no slide 8."
+    ]
+  },
+  {
+    "semana": 4,
+    "slide": 10,
+    "bloco": 1,
+    "original": "semana-04/original/slide-10/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-10/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 11,
+    "bloco": 1,
+    "original": "semana-04/original/slide-11/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-11/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 12,
+    "bloco": 1,
+    "original": "semana-04/original/slide-12/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-12/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 13,
+    "bloco": 1,
+    "original": "semana-04/original/slide-13/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-13/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 14,
+    "bloco": 1,
+    "original": "semana-04/original/slide-14/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-14/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Tupla apresentada no slide 13."
+    ]
+  },
+  {
+    "semana": 4,
+    "slide": 15,
+    "bloco": 1,
+    "original": "semana-04/original/slide-15/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-15/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 16,
+    "bloco": 1,
+    "original": "semana-04/original/slide-16/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-16/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 17,
+    "bloco": 1,
+    "original": "semana-04/original/slide-17/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-17/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 17,
+    "bloco": 2,
+    "original": "semana-04/original/slide-17/bloco-02.txt",
+    "organizado": "semana-04/organizado/slide-17/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 17,
+    "bloco": 3,
+    "original": "semana-04/original/slide-17/bloco-03.txt",
+    "organizado": "semana-04/organizado/slide-17/bloco_03.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 18,
+    "bloco": 1,
+    "original": "semana-04/original/slide-18/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-18/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 19,
+    "bloco": 1,
+    "original": "semana-04/original/slide-19/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-19/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Conjunto frutas do slide 18 e conjuntos A/B do slide 26."
+    ]
+  },
+  {
+    "semana": 4,
+    "slide": 20,
+    "bloco": 1,
+    "original": "semana-04/original/slide-20/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-20/bloco-01.md",
+    "tipo": "fragmento de referência",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 21,
+    "bloco": 1,
+    "original": "semana-04/original/slide-21/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-21/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 22,
+    "bloco": 1,
+    "original": "semana-04/original/slide-22/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-22/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 22,
+    "bloco": 2,
+    "original": "semana-04/original/slide-22/bloco-02.txt",
+    "organizado": "semana-04/organizado/slide-22/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 22,
+    "bloco": 3,
+    "original": "semana-04/original/slide-22/bloco-03.txt",
+    "organizado": "semana-04/organizado/slide-22/bloco_03.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 24,
+    "bloco": 1,
+    "original": "semana-04/original/slide-24/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-24/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 25,
+    "bloco": 1,
+    "original": "semana-04/original/slide-25/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-25/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 26,
+    "bloco": 1,
+    "original": "semana-04/original/slide-26/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-26/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 28,
+    "bloco": 1,
+    "original": "semana-04/original/slide-28/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-28/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 29,
+    "bloco": 1,
+    "original": "semana-04/original/slide-29/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-29/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 30,
+    "bloco": 1,
+    "original": "semana-04/original/slide-30/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-30/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 31,
+    "bloco": 1,
+    "original": "semana-04/original/slide-31/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-31/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 32,
+    "bloco": 1,
+    "original": "semana-04/original/slide-32/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-32/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 33,
+    "bloco": 1,
+    "original": "semana-04/original/slide-33/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-33/principal.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 34,
+    "bloco": 1,
+    "original": "semana-04/original/slide-34/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-34/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 35,
+    "bloco": 1,
+    "original": "semana-04/original/slide-35/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-35/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 36,
+    "bloco": 1,
+    "original": "semana-04/original/slide-36/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-36/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 37,
+    "bloco": 1,
+    "original": "semana-04/original/slide-37/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-37/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 4,
+    "slide": 38,
+    "bloco": 1,
+    "original": "semana-04/original/slide-38/bloco-01.txt",
+    "organizado": "semana-04/organizado/slide-38/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 1,
+    "bloco": 1,
+    "original": "semana-05/original/slide-01/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-01/aula05.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 5,
+    "bloco": 1,
+    "original": "semana-05/original/slide-05/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-05/recap_semana4.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 6,
+    "bloco": 1,
+    "original": "semana-05/original/slide-06/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-06/conjuntos.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 7,
+    "bloco": 1,
+    "original": "semana-05/original/slide-07/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-07/filtragem.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 8,
+    "bloco": 1,
+    "original": "semana-05/original/slide-08/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-08/adicionar.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 8,
+    "bloco": 2,
+    "original": "semana-05/original/slide-08/bloco-02.txt",
+    "organizado": "semana-05/organizado/slide-08/remover.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 8,
+    "bloco": 3,
+    "original": "semana-05/original/slide-08/bloco-03.txt",
+    "organizado": "semana-05/organizado/slide-08/principal.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 9,
+    "bloco": 1,
+    "original": "semana-05/original/slide-09/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-09/estatisticas.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 10,
+    "bloco": 1,
+    "original": "semana-05/original/slide-10/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-10/sintaxe.md",
+    "tipo": "fragmento de referência",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 10,
+    "bloco": 2,
+    "original": "semana-05/original/slide-10/bloco-02.txt",
+    "organizado": "semana-05/organizado/slide-10/leitura.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Corrigido with print(conteudo) open(...) para with open(...); impressão posicionada após a leitura."
+    ]
+  },
+  {
+    "semana": 5,
+    "slide": 11,
+    "bloco": 1,
+    "original": "semana-05/original/slide-11/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-11/leitura_metodos.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 12,
+    "bloco": 1,
+    "original": "semana-05/original/slide-12/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-12/escrita.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 13,
+    "bloco": 1,
+    "original": "semana-05/original/slide-13/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-13/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 13,
+    "bloco": 2,
+    "original": "semana-05/original/slide-13/bloco-02.txt",
+    "organizado": "semana-05/organizado/slide-13/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 14,
+    "bloco": 1,
+    "original": "semana-05/original/slide-14/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-14/csv_exemplo.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 14,
+    "bloco": 2,
+    "original": "semana-05/original/slide-14/bloco-02.txt",
+    "organizado": "semana-05/organizado/slide-14/json_exemplo.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 15,
+    "bloco": 1,
+    "original": "semana-05/original/slide-15/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-15/bloco_01.md",
+    "tipo": "fragmento de referência",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 15,
+    "bloco": 2,
+    "original": "semana-05/original/slide-15/bloco-02.txt",
+    "organizado": "semana-05/organizado/slide-15/exemplo_basico.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 16,
+    "bloco": 1,
+    "original": "semana-05/original/slide-16/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-16/metacaracteres.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 17,
+    "bloco": 1,
+    "original": "semana-05/original/slide-17/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-17/funcoes_re.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 18,
+    "bloco": 1,
+    "original": "semana-05/original/slide-18/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-18/validacoes.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 19,
+    "bloco": 1,
+    "original": "semana-05/original/slide-19/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-19/extrair_ips.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 19,
+    "bloco": 2,
+    "original": "semana-05/original/slide-19/bloco-02.txt",
+    "organizado": "semana-05/organizado/slide-19/mascarar_cpf.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Incluído import re, exibido no primeiro painel do mesmo slide."
+    ]
+  },
+  {
+    "semana": 5,
+    "slide": 20,
+    "bloco": 1,
+    "original": "semana-05/original/slide-20/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-20/excecoes.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 21,
+    "bloco": 1,
+    "original": "semana-05/original/slide-21/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-21/arquivo_seguro.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 22,
+    "bloco": 1,
+    "original": "semana-05/original/slide-22/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-22/raise.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 22,
+    "bloco": 2,
+    "original": "semana-05/original/slide-22/bloco-02.txt",
+    "organizado": "semana-05/organizado/slide-22/excecao_personalizada.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 23,
+    "bloco": 1,
+    "original": "semana-05/original/slide-23/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-23/analise_log.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Reunidos início e continuação do mesmo slide."
+    ]
+  },
+  {
+    "semana": 5,
+    "slide": 23,
+    "bloco": 2,
+    "original": "semana-05/original/slide-23/bloco-02.txt",
+    "organizado": "semana-05/organizado/slide-23/analise_log.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Continuação reunida ao início."
+    ]
+  },
+  {
+    "semana": 5,
+    "slide": 24,
+    "bloco": 1,
+    "original": "semana-05/original/slide-24/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-24/contador_palavras.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 25,
+    "bloco": 1,
+    "original": "semana-05/original/slide-25/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-25/validador_cadastro.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 26,
+    "bloco": 1,
+    "original": "semana-05/original/slide-26/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-26/divisao_segura.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 27,
+    "bloco": 1,
+    "original": "semana-05/original/slide-27/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-27/filtrar_produtos.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 28,
+    "bloco": 1,
+    "original": "semana-05/original/slide-28/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-28/validar_idade.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 5,
+    "slide": 31,
+    "bloco": 1,
+    "original": "semana-05/original/slide-31/bloco-01.txt",
+    "organizado": "semana-05/organizado/slide-31/bloco_01.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Reunido o padrão regex que estava quebrado visualmente.",
+      "Módulo re e email usados no exemplo do slide 18."
+    ]
+  },
+  {
+    "semana": 6,
+    "slide": 1,
+    "bloco": 1,
+    "original": "semana-06/original/slide-01/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-01/aula06.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 5,
+    "bloco": 1,
+    "original": "semana-06/original/slide-05/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-05/cadastro.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 6,
+    "bloco": 1,
+    "original": "semana-06/original/slide-06/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-06/processar_cadastros.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Importados os validadores do slide 5."
+    ]
+  },
+  {
+    "semana": 6,
+    "slide": 6,
+    "bloco": 2,
+    "original": "semana-06/original/slide-06/bloco-02.txt",
+    "organizado": "semana-06/organizado/slide-06/executar.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Importados os validadores do slide 5.",
+      "Importada a função do primeiro painel."
+    ]
+  },
+  {
+    "semana": 6,
+    "slide": 7,
+    "bloco": 1,
+    "original": "semana-06/original/slide-07/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-07/limitacao.py",
+    "tipo": "erro didático",
+    "alteracoes": [
+      "Importados os validadores do slide 5."
+    ]
+  },
+  {
+    "semana": 6,
+    "slide": 9,
+    "bloco": 1,
+    "original": "semana-06/original/slide-09/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-09/procedural.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 9,
+    "bloco": 2,
+    "original": "semana-06/original/slide-09/bloco-02.txt",
+    "organizado": "semana-06/organizado/slide-09/funcional.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 9,
+    "bloco": 3,
+    "original": "semana-06/original/slide-09/bloco-03.txt",
+    "organizado": "semana-06/organizado/slide-09/orientado_objetos.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 10,
+    "bloco": 1,
+    "original": "semana-06/original/slide-10/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-10/procedural.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Importados os validadores do slide 5."
+    ]
+  },
+  {
+    "semana": 6,
+    "slide": 11,
+    "bloco": 1,
+    "original": "semana-06/original/slide-11/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-11/orientado_objetos.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Importados os validadores do slide 5."
+    ]
+  },
+  {
+    "semana": 6,
+    "slide": 12,
+    "bloco": 1,
+    "original": "semana-06/original/slide-12/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-12/bloco-01.md",
+    "tipo": "fragmento de referência",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 13,
+    "bloco": 1,
+    "original": "semana-06/original/slide-13/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-13/cliente.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 14,
+    "bloco": 1,
+    "original": "semana-06/original/slide-14/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-14/produto.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 14,
+    "bloco": 2,
+    "original": "semana-06/original/slide-14/bloco-02.txt",
+    "organizado": "semana-06/organizado/slide-14/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Objeto p1 definido no primeiro painel do mesmo slide."
+    ]
+  },
+  {
+    "semana": 6,
+    "slide": 15,
+    "bloco": 1,
+    "original": "semana-06/original/slide-15/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-15/calculadora.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 15,
+    "bloco": 2,
+    "original": "semana-06/original/slide-15/bloco-02.txt",
+    "organizado": "semana-06/organizado/slide-15/circulo.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 16,
+    "bloco": 1,
+    "original": "semana-06/original/slide-16/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-16/conta.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 17,
+    "bloco": 1,
+    "original": "semana-06/original/slide-17/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-17/conta.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Reunida classe ContaBancaria do slide anterior."
+    ]
+  },
+  {
+    "semana": 6,
+    "slide": 17,
+    "bloco": 2,
+    "original": "semana-06/original/slide-17/bloco-02.txt",
+    "organizado": "semana-06/organizado/slide-17/padrao_mutavel.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 18,
+    "bloco": 1,
+    "original": "semana-06/original/slide-18/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-18/bloco-01.md",
+    "tipo": "fragmento de referência",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 18,
+    "bloco": 2,
+    "original": "semana-06/original/slide-18/bloco-02.txt",
+    "organizado": "semana-06/organizado/slide-18/dunder.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 19,
+    "bloco": 1,
+    "original": "semana-06/original/slide-19/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-19/encapsulamento.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 20,
+    "bloco": 1,
+    "original": "semana-06/original/slide-20/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-20/propriedade.py",
+    "tipo": "erro didático",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 21,
+    "bloco": 1,
+    "original": "semana-06/original/slide-21/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-21/heranca.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 21,
+    "bloco": 2,
+    "original": "semana-06/original/slide-21/bloco-02.txt",
+    "organizado": "semana-06/organizado/slide-21/super.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Incluída a classe Animal exibida no primeiro painel."
+    ]
+  },
+  {
+    "semana": 6,
+    "slide": 22,
+    "bloco": 1,
+    "original": "semana-06/original/slide-22/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-22/heranca_multipla.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 22,
+    "bloco": 2,
+    "original": "semana-06/original/slide-22/bloco-02.txt",
+    "organizado": "semana-06/organizado/slide-22/cadeia.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 23,
+    "bloco": 1,
+    "original": "semana-06/original/slide-23/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-23/polimorfismo.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 23,
+    "bloco": 2,
+    "original": "semana-06/original/slide-23/bloco-02.txt",
+    "organizado": "semana-06/organizado/slide-23/bloco_02.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 24,
+    "bloco": 1,
+    "original": "semana-06/original/slide-24/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-24/duck_typing.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 24,
+    "bloco": 2,
+    "original": "semana-06/original/slide-24/bloco-02.txt",
+    "organizado": "semana-06/organizado/slide-24/ruim.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 24,
+    "bloco": 3,
+    "original": "semana-06/original/slide-24/bloco-03.txt",
+    "organizado": "semana-06/organizado/slide-24/bom.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 25,
+    "bloco": 1,
+    "original": "semana-06/original/slide-25/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-25/formas.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 25,
+    "bloco": 2,
+    "original": "semana-06/original/slide-25/bloco-02.txt",
+    "organizado": "semana-06/organizado/slide-25/uso_formas.py",
+    "tipo": "erro didático",
+    "alteracoes": [
+      "Importadas as classes Forma e Circulo do primeiro painel."
+    ]
+  },
+  {
+    "semana": 6,
+    "slide": 26,
+    "bloco": 1,
+    "original": "semana-06/original/slide-26/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-26/heranca.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 26,
+    "bloco": 2,
+    "original": "semana-06/original/slide-26/bloco-02.txt",
+    "organizado": "semana-06/organizado/slide-26/composicao.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 27,
+    "bloco": 1,
+    "original": "semana-06/original/slide-27/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-27/ruim.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 27,
+    "bloco": 2,
+    "original": "semana-06/original/slide-27/bloco-02.txt",
+    "organizado": "semana-06/organizado/slide-27/bom.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 28,
+    "bloco": 1,
+    "original": "semana-06/original/slide-28/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-28/exercicio1_cliente.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 29,
+    "bloco": 1,
+    "original": "semana-06/original/slide-29/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-29/exercicio2_animais.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 30,
+    "bloco": 1,
+    "original": "semana-06/original/slide-30/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-30/conta.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Método extrato reunido à classe."
+    ]
+  },
+  {
+    "semana": 6,
+    "slide": 30,
+    "bloco": 2,
+    "original": "semana-06/original/slide-30/bloco-02.txt",
+    "organizado": "semana-06/organizado/slide-30/teste_conta.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Teste separado da classe; import incluído."
+    ]
+  },
+  {
+    "semana": 6,
+    "slide": 31,
+    "bloco": 1,
+    "original": "semana-06/original/slide-31/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-31/exercicio4_formas.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 31,
+    "bloco": 2,
+    "original": "semana-06/original/slide-31/bloco-02.txt",
+    "organizado": "semana-06/organizado/slide-31/retangulo.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Importadas as classes Forma e Circulo do primeiro painel."
+    ]
+  },
+  {
+    "semana": 6,
+    "slide": 32,
+    "bloco": 1,
+    "original": "semana-06/original/slide-32/bloco-01.txt",
+    "organizado": "semana-06/organizado/slide-32/exercicio5_produtos.py",
+    "tipo": "exemplo",
+    "alteracoes": []
+  },
+  {
+    "semana": 6,
+    "slide": 32,
+    "bloco": 2,
+    "original": "semana-06/original/slide-32/bloco-02.txt",
+    "organizado": "semana-06/organizado/slide-32/teste_produtos.py",
+    "tipo": "exemplo",
+    "alteracoes": [
+      "Importadas classes definidas no primeiro painel."
+    ]
+  }
+]

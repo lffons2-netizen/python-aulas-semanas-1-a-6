@@ -1,0 +1,2 @@
+resultado = 2 + 3 * 4      # 14, não 20
+resultado2 = (2+3) * 4     # 20

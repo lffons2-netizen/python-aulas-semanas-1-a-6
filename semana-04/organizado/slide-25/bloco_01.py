@@ -1,0 +1,11 @@
+# Semana 4 | Slide 25 | Bloco 1
+# lista fora de ordem
+lista = [10, 5, 20, 3]
+# sort() ordena a propria lista
+lista.sort()
+print(lista)  # [3, 5, 10, 20]
+# ordem decrescente
+lista.sort(reverse=True)
+print(lista)  # [20, 10, 5, 3]
+# sorted() devolve uma nova lista
+nova = sorted(lista)

@@ -1,0 +1,23 @@
+class Animal:
+    def emitir_som(self):
+        pass
+
+class Cachorro(Animal):
+    def emitir_som(self):
+        return "Au au!"
+
+class Gato(Animal):
+    def emitir_som(self):
+        return "Miau!"
+
+class Vaca(Animal):
+    def emitir_som(self):
+        return "Muuu!"
+
+# Mesma chamada, comportamentos diferentes
+for animal in [Cachorro(), Gato(), Vaca()]:
+    print(animal.emitir_som())
+
+def fazer_som(animal):
+    """Funciona com qualquer objeto que tenha emitir_som()."""
+    print(animal.emitir_som())

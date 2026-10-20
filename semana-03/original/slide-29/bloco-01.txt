@@ -1,0 +1,8 @@
+def perfil(**dados):
+    # dados chega como DICIONARIO
+    for chave, valor in dados.items():
+        print(chave, ":", valor)
+
+perfil(nome="Ana", idade=25)
+# nome : Ana
+# idade : 25

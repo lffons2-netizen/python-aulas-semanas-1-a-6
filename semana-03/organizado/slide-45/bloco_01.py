@@ -1,0 +1,12 @@
+# Semana 3 | Slide 45 | Bloco 1
+def reg(nota, boletim=None):
+    """Nao altera a lista original."""
+    if boletim is None:
+        boletim = []
+    novo = boletim[:]   # copia
+    novo.append(nota)
+    return novo
+
+notas = [7]
+print(reg(9, notas))  # [7, 9]
+print(notas)          # [7]

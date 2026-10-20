@@ -1,0 +1,10 @@
+match opcao:
+    case 1:
+        print("Inscrição Confirmada: Maratona
+Completa (42.195 km)")
+    case 2:
+        print("Inscrição Confirmada: Meia Maratona
+(21.097 km)")
+    case 3:
+        print("Inscrição Confirmada: Corrida de
+Estreia (5 km)")

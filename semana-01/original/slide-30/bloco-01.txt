@@ -1,0 +1,4 @@
+nome = "Ana"
+sauda = "Olá " + nome
+print(sauda)
+print("Oi! " * 3)

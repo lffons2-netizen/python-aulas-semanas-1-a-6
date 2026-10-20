@@ -1,0 +1,22 @@
+class Produto:
+    def __init__(self, nome, preco):
+        self.nome = nome
+        self.preco = preco      # já passa pelo setter!
+
+    @property
+    def preco(self):
+        """Getter: acessado como atributo."""
+        return self._preco
+
+    @preco.setter
+    def preco(self, valor):
+        """Setter: valida antes de atribuir."""
+        if valor < 0:
+            raise ValueError("Preço não pode ser negativo")
+        self._preco = valor
+
+p = Produto("Notebook", 2500)
+print(p.preco)    # 2500 (chama o getter)
+p.preco = 3000    # chama o setter
+print(p.preco)    # 3000
+p.preco = -100    # ValueError

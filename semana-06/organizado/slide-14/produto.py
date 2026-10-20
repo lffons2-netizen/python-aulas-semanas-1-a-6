@@ -1,0 +1,20 @@
+# Semana 6 | Slide 14 | Bloco 1
+class Produto:
+    # Atributo de CLASSE (compartilhado por todos)
+    taxa_imposto = 0.10
+
+    def __init__(self, nome, preco):
+        # Atributos de INSTÂNCIA (um por objeto)
+        self.nome = nome
+        self.preco = preco
+
+    def preco_com_imposto(self):
+        return round(self.preco * (1 + Produto.taxa_imposto), 2)
+
+p1 = Produto("Notebook", 2500.00)
+p2 = Produto("Mouse", 45.90)
+
+print(p1.nome)                  # Notebook
+print(p1.preco_com_imposto())   # 2750.0
+print(p2.preco_com_imposto())   # 50.49
+print(Produto.taxa_imposto)     # 0.1

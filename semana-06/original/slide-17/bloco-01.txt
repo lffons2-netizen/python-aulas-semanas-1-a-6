@@ -1,0 +1,10 @@
+    def extrato(self):
+        print(f"Titular: {self.titular}")
+        print(f"Saldo: R$ {self.saldo:.2f}")
+        for h in self.historico:
+            print(f"  {h}")
+
+conta = ContaBancaria("Ana Silva", 1000)
+conta.depositar(500)
+conta.sacar(200)
+conta.extrato()
